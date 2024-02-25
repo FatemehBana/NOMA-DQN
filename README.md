@@ -1,2 +1,2 @@
 # NOMA-DQN
-UAV-uplink interference management using DQN and NOMA
+This project simulates a single-cell cellular-connected UAV network to manage aerial interference on ground networks using DQN and NOMA approaches.
