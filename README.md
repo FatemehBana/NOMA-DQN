@@ -22,7 +22,7 @@ F. Banaeizadeh, M. Barbeau, J. Garcia-Alfaro, E. Kranakis.
 Optimal UAV-Trajectory Design in a Dynamic Environment Using
 NOMA and Deep Reinforcement Learning. 2024 IEEE Canadian Conference
 on Electrical and Computer Engineering (CCECE 2024), Kingston,
-Ontario, Canada, August 06–09, 2024
+Ontario, Canada, August 06–09, 2024.
 
 ```
 @inproceedings{9.banaeizadeh2024optimal,
